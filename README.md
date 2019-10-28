@@ -1,6 +1,6 @@
 # Predicting Out-of-Hospital Death
 
-#What we are studying
+# What we are studying
 IBM Watson Health’s (formerly Truven Health Analytics) MarketScan Research Databases contains longitudinal, real-world treatment patterns for over 230 million US patients, the largest such database in the world. These data have been used for more than 60 published analyses of opioid- related health outcomes. However, the assessment of fatalities is limited without linkage to death data since insurance claims only capture in-hospital deaths.
 
 We will leverage our partnership with IBM Watson Health to develop new algorithms which differentiate disenrollment (due to change in insurance provider) from disenrollment as a result of death, including out-of-hospital deaths. In preliminary analyses, we found that 88% of deaths in the Marketscan population under the age of 65 (Commercial Claims and Encounters [CCAE]) and 89.6% of deaths among those 65 and older (Medicare Supplemental [MDS]) occurred out-of-hospital.
